@@ -1,0 +1,901 @@
+1,Júlio Cesar,Soares De Espíndola,35,goalie,portero,Toronto
+1,Jefferson,de Oliveira Galvão,31,goalie,portero,Botafogo
+1,Victor,Leandro Bagy ,31,goalie,portero,Atletico Mineiro
+1,Daniel,Alves da Silva,31,defense,defensa,Barcelona
+1,Maicon, Douglas Sisenando,33,defense,defensa,Roma
+1,Marcelo,Vieira da Silva Júnior,26,defense,defensa,Real Madrid
+1,Maxwell,Cabelino Andrade,33,defense,defensa,París SG
+1,Thiago,Silva,30,defense,defensa,París SG
+1,David Luis,Moreira Marinho,27,defense,defensa,Chelsea
+1,Dante,Costa Santos,31,defense,defensa,Bayern Múnich
+1,Henrique,Adriano Buss,28,defense,defensa,Napoli
+1,Luis Gustavo,Dias,27,midfielder,mediocampista,Wolfsburgo
+1,Paulinho, Bezerra Maciel Júnior,26,midfielder,mediocampista,Tottenham
+1,Hernanes,de Carvalho Andrade Lima,29,midfielder,mediocampista,Inter
+1,Fernandinho,Luiz Rosa,29,midfielder,mediocampista,Manchester City
+1,Oscar,dos Santos Emboaba Júnior,23,midfielder,mediocampista,Chelsea
+1,Ramires,Santos do Nascimento,27,midfielder,mediocampista,Chelsea
+1,Willian,Borges da Silva,26,midfielder,mediocampista,Chelsea
+1,Neymar,da Silva Santos Júnior,22,forward,delantero,Barcelona
+1,Fred,Chaves Guedes,31,forward,delantero,Fluminense
+1,Jó,de Assis Silva,27,forward,delantero,Atletico Mineiro
+1,Hulk,Vieira de Souza,28,forward,delantero,Zenit
+1,Bernard,Duarte Caldeira,22,forward,delantero,Shakhtar
+2,Stipe ,Pletikosa,35,goalie,portero,Rostov
+2,Danijel ,Subasic ,30,goalie,portero,Mónaco
+2,Oliver ,Zelenika ,21,goalie,portero,Dinamo Zagreb
+2,Darijo ,Srna ,32,defense,defensa,Shakhtar Donetsk
+2,Dejan ,Lovren ,25,defense,defensa,Southampton
+2,Vedran ,Corluka ,28,defense,defensa,Lokomotiv Moscú
+2,Gordon ,Schildenfeld ,29,defense,defensa,Panathinaikos
+2,Danijel ,Pranjic ,33,defense,defensa,Panathinaikos
+2,Ivan ,Strinic ,27,defense,defensa,Dnipro Dnipropetrovsk
+2,Domagoj ,Vida ,25,defense,defensa,Dynamo Kiev
+2,Sime ,Vrsaljko ,22,defense,defensa,Genoa
+2,Igor ,Bubnjic ,22,defense,defensa,Udinese
+2,Luka ,Modric ,29,midfielder,mediocampista,Real Madrid
+2,Ivan ,Rakitic ,26,midfielder,mediocampista,Sevilla
+2,Niko ,Kranjcar ,30,midfielder,mediocampista,Queens Park Rangers
+2,Ognjen ,Vukojevic ,31,midfielder,mediocampista,Dynamo Kiev
+2,Ivan ,Perisic ,25,midfielder,mediocampista,Wolfsburgo
+2,Mateo ,Kovacic ,20,midfielder,mediocampista,Inter Milán
+2,Milan ,Badelj ,25,midfielder,mediocampista,Hamburgo
+2,Ivo ,Ilicevic ,30,midfielder,mediocampista,Hamburgo
+2,Marcelo ,Brozovic ,22,midfielder,mediocampista,Dinamo Zagreb
+2,Ivan ,Mocinic ,21,midfielder,mediocampista,Rijeka
+2,Mario ,Pasalic ,19,midfielder,mediocampista,Hajduk Split
+2,Jorge,Sammir ,27,midfielder,mediocampista,Getafe
+2,Mario ,Mandzukic ,28,forward,delantero,Bayern Múnich
+2,Ivica ,Olic ,35,forward,delantero,Wolfsburgo
+2,Eduardo ,Da Silva,31,forward,delantero,Shakhtar Donetsk
+2,Nikica ,Jelavic ,29,forward,delantero,Hull City
+2,Ante ,Rebic ,21,forward,delantero,Fiorentina
+2,Duje ,Cop ,24,forward,delantero,Dinamo Zagreb
+3,Alfredo ,Talavera ,32,goalie,portero,Toluca
+3,Guillermo ,Ochoa ,29,goalie,portero,Ajaccio
+3,J. Jesús ,Corona ,33,goalie,portero,Cruz Azul
+3,Andrés ,Guardado ,28,defense,defensa,Bayer Leverkusen
+3,Diego ,Reyes ,22,defense,defensa,Oporto
+3,Francisco ,Rodríguez ,33,defense,defensa,América
+3,Héctor ,Moreno ,26,defense,defensa,Espanyol
+3,Carlos ,Salcido ,34,defense,defensa,Tigres
+3,Miguel ,Layún ,26,defense,defensa,América
+3,Paul ,Aguilar ,28,defense,defensa,América
+3,Rafael ,Márquez ,35,defense,defensa,León
+3,Isaac ,Brizuela ,24,midfielder,mediocampista,Toluca
+3,Carlos ,Peña ,24,midfielder,mediocampista,León
+3,Héctor ,Herrera ,24,midfielder,mediocampista,Oporto
+3,Juan Carlos,Medina ,31,midfielder,mediocampista,América
+3,Juan José,Vázquez,26,midfielder,mediocampista,León
+3,Luis ,Montes ,28,midfielder,mediocampista,León
+3,Marco Fabián,de la Mora,25,midfielder,mediocampista,Cruz Azul
+3,Alan ,Pulido ,22,forward,delantero,Tigres
+3,Giovani ,dos Santos,25,forward,delantero,Villarreal
+3,Javier ,Hernández ,26,forward,delantero,Manchester United
+3,Oribe ,Peralta ,30,forward,delantero,Santos
+3,Raúl ,Jiménez ,23,forward,delantero,América
+4,Guy-Rolland,Assembe ,28,goalie,portero,Guingamp
+4,Loic ,Feudjou ,22,goalie,portero,Coton Sport
+4,Charles ,Itandje ,32,goalie,portero,Konyaspor
+4,Sammy ,Ndjock ,24,goalie,portero,Fethiyespor
+4,Benoit ,Assou-Ekotto ,30,defense,defensa,Tottenham Hotspur
+4,Henri ,Bedimo ,30,defense,defensa,Olympique de Lyon
+4,Gaetan ,Bong ,26,defense,defensa,Olympiakos Piraeus
+4,Aurelien ,Chedjou ,29,defense,defensa,Galatasaray
+4,Cedric ,Djeugoue ,22,defense,defensa,Coton Sport
+4,Jean-Armel Kana,Biyik,25,defense,defensa,Stade Rennes
+4,Nicolas ,Nkoulou ,24,defense,defensa,Olympique de Marsella
+4,Dany ,Nounkeu ,28,defense,defensa,Besiktas
+4,Allan ,Nyom ,26,defense,defensa,Granada
+4,Enoh ,Eyong ,28,midfielder,mediocampista,Antalyaspor
+4,Raoul Cedric,Loe ,25,midfielder,mediocampista,Osasuna
+4,Jean ,Makoun ,31,midfielder,mediocampista,Stade Rennes
+4,Joel ,Matip ,23,midfielder,mediocampista,Schalke 04
+4,Stephane ,Mbia ,28,midfielder,mediocampista,Sevilla
+4,Benjamin ,Moukandjo ,26,midfielder,mediocampista,Nancy
+4,Landry ,Nguemo ,29,midfielder,mediocampista,Girondins Burdeos
+4,Edgar ,Salli ,22,midfielder,mediocampista,Racing Lens
+4,Alexandre ,Song ,27,midfielder,mediocampista,Barcelona
+4,Vincent ,Aboubakar ,22,forward,delantero,Lorient
+4,Eric-Maxim Choupo,Moting ,25,forward,delantero,Mainz
+4,Samuel ,Eto’o ,33,forward,delantero,Chelsea
+4,Mohamadou ,Idrissou ,34,forward,delantero,Kaiserslautern
+4,Fabrice ,Olinga ,18,forward,delantero,Málag
+4,Achille ,Webo ,32,forward,delantero,Fenerbahce
+5,Iker ,Casillas ,33,goalie,portero,Real Madrid
+5,Pepe ,Reina ,32,goalie,portero,Nápoles
+5,David ,de Gea,24,goalie,portero,Manchester United
+5,Dani ,Carvajal,22,defense,defensa,Real Madrid
+5,Sergio ,Ramos,28,defense,defensa,Real Madrid
+5,Gerard ,Piqué,27,defense,defensa,Barcelona
+5,Jordi ,Alba,25,defense,defensa,Barcelona
+5,César ,Azpilicueta ,25,defense,defensa,Chelsea
+5,Juanfran ,García García,38,defense,defensa,Atlético de Madrid
+5,Javi ,Martínez ,26,defense,defensa,Bayern Múnich
+5,Raúl ,Albiol ,29,defense,defensa,Nápoles
+5,Alberto ,Moreno ,22,defense,defensa,Sevilla
+5,Sergio ,Busquets,26,midfielder,mediocampista,Barcelona
+5,Xavi ,Hernández,34,midfielder,mediocampista,Barcelona
+5,Andrés ,Iniesta ,30,midfielder,mediocampista,Barcelona
+5,Cesc ,Fábregas,27,midfielder,mediocampista,Barcelona
+5,Xabi ,Alonso,33,midfielder,mediocampista,Real Madrid
+5,Ander ,Iturraspe ,25,midfielder,mediocampista,Athletic Bilbao
+5,David ,Silva ,28,midfielder,mediocampista,Manchester City
+5,Santi ,Cazorla ,30,midfielder,mediocampista,Arsenal
+5,Koke ,Resurrección,22,midfielder,mediocampista,Atlético Madrid
+5,Thiago ,Alcántara ,23,midfielder,mediocampista,Bayern Múnich
+5,Juan ,Mata ,26,midfielder,mediocampista,Manchester United
+5,Diego ,Costa,26,forward,delantero,Atlético Madrid
+5,David ,Villa ,33,forward,delantero,Atlético Madrid
+5,Álvaro ,Negredo ,29,forward,delantero,Manchester City
+5,Jesús ,Navas ,29,forward,delantero,Manchester City
+5,Pedro ,Rodríguez ,27,forward,delantero,Barcelona
+5,Fernando ,Llorente ,29,forward,delantero,Juventus
+5,Fernando ,Torres ,30,forward,delantero,Chelsea
+6,Jasper ,Cillessen ,25,goalie,portero,Ajax
+6,Tim ,Krul,26,goalie,portero,Newcastle United
+6,Michel ,Vorm ,30,goalie,portero,Swansea City
+6,Jeroen ,Zoet ,23,goalie,portero,PSV Eindhoven
+6,Daley ,Blind ,24,defense,defensa,Ajax
+6,Stefan ,de Vrij,22,defense,defensa,Feyenoord
+6,Daryl ,Janmaat,24,defense,defensa,Feyenoord
+6,Terence ,Kongolo ,20,defense,defensa,Feyenoord
+6,Bruno Martins,Indi ,22,defense,defensa,Feyenoord
+6,Karim ,Rekik ,19,defense,defensa,PSV Eindhoven
+6,Patrick ,van Aanholt,24,defense,defensa,Vitesse Arnhem
+6,Paul ,Verhaegh ,30,defense,defensa,Augsburgo
+6,Tonny ,Vilhena ,19,defense,defensa,Feyenoord
+6,Ron ,Vlaar ,29,defense,defensa,Aston Villa
+6,Joel ,Veltman ,22,defense,defensa,Ajax
+6,Jordy ,Clasie ,22,midfielder,mediocampista,Feyenoord
+6,Jonathan,de Guzman,27,midfielder,mediocampista,Swansea City
+6,Nigel ,de Jong,30,midfielder,mediocampista,AC Milan
+6,Leroy ,Fer ,24,midfielder,mediocampista,Norwich City
+6,Arjen ,Robben ,30,midfielder,mediocampista,Bayern Munich
+6,Wesley ,Sneijder ,30,midfielder,mediocampista,Galatasaray
+6,Rafael ,van der Vaart,31,midfielder,mediocampista,Hamburgo
+6,Georginio ,Wijnaldum ,23,midfielder,mediocampista,PSV Eindhoven
+6,Jean-Paul,Boetius ,20,forward,delantero,Feyenoord
+6,Memphis,Depay ,20,forward,delantero,PSV Eindhoven
+6,Klaas-Jan,Huntelaar ,31,forward,delantero,Schalke 04
+6,Dirk ,Kuyt ,34,forward,delantero,Fenerbahce
+6,Jeremain ,Lens ,27,forward,delantero,Dínamo Kiev
+6,Quincy ,Promes ,22,forward,delantero,Twente Enschede
+6,Robin ,van Persie,31,forward,delantero,Manchester United
+7,Claudio ,Bravo ,31,goalie,portero,Real Sociedad
+7,Johnny ,Herrera ,33,goalie,portero,Universidad de Chile
+7,Cristopher ,Toselli ,26,goalie,portero,Universidad Católica
+7,Paulo ,Garcés ,30,goalie,portero,O Higgins
+7,Gary ,Medel ,27,defense,defensa,Cardiff City
+7,Gonzalo ,Jara ,29,defense,defensa,Nittingham Forest
+7,Mauricio ,Isla ,26,defense,defensa,Juventus
+7,Miiko ,Albornoz ,24,defense,defensa,Malmö
+7,Eugenio ,Mena ,26,defense,defensa,Santos
+7,Marcos ,González ,34,defense,defensa,Unión Española
+7,José ,Rojas ,31,defense,defensa,Universidad de Chile
+7,Enzo ,Andía ,22,defense,defensa,Universidad Católica
+7,Arturo ,Vidal ,27,midfielder,mediocampista,Juventus
+7,Marcelo ,Díaz ,28,midfielder,mediocampista,Basilea
+7,Francisco ,Silva ,28,midfielder,mediocampista,Osasuna
+7,Felipe ,Gutiérrez ,24,midfielder,mediocampista,Twente
+7,Matías ,Fernández ,28,midfielder,mediocampista,Fiorentina
+7,Carlos ,Carmona ,27,midfielder,mediocampista,Atalanta
+7,Jean ,Beausejour ,30,midfielder,mediocampista,Wigan
+7,Charles ,Aránguiz ,25,midfielder,mediocampista,Internacional de Porto Alegre
+7,Jorge ,Valdivia ,31,midfielder,mediocampista,Palmeiras
+7,Rodrigo,Millar ,33,midfielder,mediocampista,Atlas
+7,José Pedro,Fuenzalida ,29,midfielder,mediocampista,Colo Colo
+7,Alexis ,Sánchez ,26,forward,delantero,Barcelona
+7,Eduardo ,Vargas ,25,forward,delantero,Valencia
+7,Fabián ,Orellana ,28,forward,delantero,Celta
+7,Mauricio ,Pinilla ,30,forward,delantero,Cagliari
+7,Esteban,Paredes ,34,forward,delantero,Colo Colo
+7,Gustavo ,Canales ,32,forward,delantero,Unión Española
+8,Mark ,Birighitti ,23,goalie,portero,Newcastle Jets
+8,Eugene ,Galekovic ,32,goalie,portero,Adelaide United
+8,Mitch ,Langerak ,25,goalie,portero,Borussia Dortmund
+8,Mathew,Ryan ,22,goalie,portero,Club Brugge
+8,Josh ,Brillante ,21,defense,defensa,Newcastle Jets
+8,Jason ,Davidson ,22,defense,defensa,Heracles Almelo
+8,Ivan ,Franjic ,26,defense,defensa,Brisbane Roar
+8,Curtis ,Good ,21,defense,defensa,Dundee United
+8,Ryan ,McGowan ,24,defense,defensa,Shandong
+8,Matthew ,Spiranovic ,25,defense,defensa,Western Sydney Wanderers
+8,Alex ,Wilkinson ,29,defense,defensa,Jeonbuk
+8,Luke ,Wilkshire ,32,defense,defensa,Dynamo Moscow
+8,Bailey ,Wright ,21,defense,defensa,Preston North End
+8,Oliver ,Bozanic ,25,midfielder,mediocampista,Luzern
+8,Mark ,Bresciano ,34,midfielder,mediocampista,Al Gharafa
+8,Ben ,Halloran ,21,midfielder,mediocampista,Fortuna Dusseldorf
+8,James ,Holland ,25,midfielder,mediocampista,Austria Vienna
+8,Mile ,Jedinak ,29,midfielder,mediocampista,Crystal Palace
+8,Massimo ,Luongo ,21,midfielder,mediocampista,Swindon Town
+8,Matt ,McKay ,31,midfielder,mediocampista,Brisbane Roar
+8,Mark ,Milligan ,28,midfielder,mediocampista,Melbourne Victory
+8,Tommy ,Oar ,22,midfielder,mediocampista,Utrecht
+8,Tom ,Rogic ,21,midfielder,mediocampista,Melbourne Victory
+8,Adam ,Sarota ,25,midfielder,mediocampista,Utrecht
+8,Dario ,Vidosic ,27,midfielder,mediocampista,FC Sion
+8,Tim ,Cahill ,34,forward,delantero,New York Red Bulls
+8,Josh ,Kennedy ,31,forward,delantero,Nagoya Grampus
+8,Mathew ,Leckie ,23,forward,delantero,FSV Frankfurt
+8,Adam ,Taggart ,20,forward,delantero,Newcastle Jets
+8,James ,Troisi ,25,forward,delantero,Melbourne Victory
+9,Faryd ,Mondragón ,12,goalie,portero,Dep. Cali
+9,David ,Ospina ,25,goalie,portero,Niza
+9,Camilo ,Vargas ,25,goalie,portero,Santa Fe
+9,Eder Álvarez,Balanta ,21,defense,defensa,River Plate
+9,Santiago ,Arias ,22,defense,defensa,PSV
+9,Pablo ,Armero ,27,defense,defensa,West Ham
+9,Alexander ,Mejía ,25,defense,defensa,Altético Nacional
+9,Aquivaldo ,Mosquera ,32,defense,defensa,América
+9,Amaranto ,Perea ,35,defense,defensa,Cruz Azul
+9,Carlos ,Valdés ,28,defense,defensa,San Lorenzo
+9,Mario ,Yepes ,38,defense,defensa,Atalanta
+9,Cristian ,Zapata ,27,defense,defensa,Milan
+9,Camilo ,Zúñiga ,28,defense,defensa,Napoli
+9,Abel ,Aguilar ,29,midfielder,medicampista,Touluse
+9,Juan Guillermo,Cuadrado ,25,midfielder,medicampista,Fiorentina
+9,Fredy ,Guarín ,27,midfielder,medicampista,Inter
+9,Víctor ,Ibarbo ,23,midfielder,medicampista,Cagliari
+9,Juan Fernando,Quintero ,21,midfielder,medicampista,Porto
+9,Aldo Leao,Ramírez ,33,midfielder,medicampista,Morelia
+9,James ,Rodríguez ,22,midfielder,medicampista,Monaco
+9,Carlos ,Sánchez ,28,midfielder,medicampista,Elche
+9,Elkin ,Soto ,33,midfielder,medicampista,Mainz
+9,Macnelly ,Torres ,30,midfielder,medicampista,Al-Shabab
+9,Edwin ,Valencia ,29,midfielder,medicampista,Fluminense
+9,Carlos ,Bacca ,27,forward,delantero,Sevilla
+9,Radamel Falcao,García ,28,forward,delantero,Monaco
+9,Teófilo ,Gutiérrez ,28,forward,delantero,River Plate
+9,Jackson ,Martínez ,27,forward,delantero,Porto
+9,Luis Fernando,Muriel ,23,forward,delantero,Udinese
+9,Adrián ,Ramós ,28,forward,delantero,Hertha Berlin
+10,Alexandros ,Tzorvas ,32,goalie,portero,Apollon Smyrnis
+10,Michalis ,Sifakis ,30,goalie,portero,Atromitos
+10,Orestis ,Karnezis ,29,goalie,portero,Granada
+10,Panagiotis ,Glykos ,28,goalie,portero,PAOK
+10,Stefanos ,Kapino ,20,goalie,portero,Panathinaikos
+10,Avraam ,Papadopoulos,30,defense,defensa,Olympiacos
+10,Dimitris ,Siovas ,28,defense,defensa,Olympiacos
+10,Kostas ,Manolas ,23,defense,defensa,Olympiacos
+10,Sokratis ,Papastathopoulos ,26,defense,defensa,Borussia Dortmund
+10,Giannis ,Maniatis ,28,defense,defensa,Olympiacos
+10,Jose ,Holebas ,30,defense,defensa,Olympiacos
+10,Georgios ,Tzavellas ,26,defense,defensa,PAOK
+10,Loukas ,Vyntra ,33,defense,defensa,Levante
+10,Vasilis ,Torosidis ,29,defense,defensa,Roma
+10,Alexandros ,Tziolis ,29,midfielder,mediocampista,Kayserispor
+10,Andreas ,Samaris ,24,midfielder,mediocampista,Olympiacos
+10,Kostas ,Katsouranis ,35,midfielder,mediocampista,PAOK
+10,Giorgios ,Karagounis ,37,midfielder,mediocampista,Fulham
+10,Panagiotis ,Tachtsidis ,23,midfielder,mediocampista,Torino
+10,Sotiris ,Ninis ,24,midfielder,mediocampista,PAOK
+10,Giannis ,Fetfatzidis ,23,midfielder,mediocampista,Genoa
+10,Kostas ,Fortounis ,22,midfielder,mediocampista,Kaiserslautern
+10,Lazaros ,Christodoulopoulos ,28,midfielder,mediocampista,Bologna
+10,Panagiotis ,Kone ,26,midfielder,mediocampista,Bologna
+10,Dimitris ,Papadopoulos ,32,forward,delantero,Atromitos
+10,Dimitris ,Salpingidis ,32,forward,delantero,PAOK
+10,Georgios ,Samaras ,29,forward,delantero,Celtic
+10,Kostas ,Mitroglou ,26,forward,delantero,Fulham
+10,Theofanis ,Gekas ,34,forward,delantero,Konyaspor
+11,Boubacar,Barry,34,goalie,portero,Lokeren
+11,Sayouba,Mandé,21,goalie,portero,Stabaek
+11,Sylvain ,Gbohouo,25,goalie,portero,Sewe San Pedro
+11,Ali ,Badra,28,goalie,portero,Asec Mimosas
+11,Kolo ,Touré,33,defense,defensa,Liverpool
+11,Arthur,Boka,31,defense,defensa,Stuttgart
+11,Jean-Daniel,Akpa,21,defense,defensa,Toulouse
+11,Serge ,Aurier,21,defense,defensa,Toulouse
+11,Ousmane,Viera,27,defense,defensa,Caykur Rizespor
+11,Didier,Zokora,33,defense,defensa,Trabzonzpor
+11,Constant,Djakpa,27,defense,defensa,Eintracht F.
+11,Brice Dja,Djédjé,23,defense,defensa,Marsella
+11,Benjamin,Angoua,27,defense,defensa,Valenciennes
+11,Bamba,Souleymane,29,defense,defensa,Trabzonspor
+11,Yaya,Touré,31,midfielder,mediocampista,Manchester C.
+11,Ismael,Diomandé,21,midfielder,mediocampista,Saint-Etienne
+11,Max ,Gradel,26,midfielder,mediocampista,Saint-Etienne
+11,Ismael,Cheick,28,midfielder,mediocampista,Newcastle
+11,Geoffroy Serey,Dié,29,midfielder,mediocampista,Hanover 96
+11,Didier Ya,Konan,30,midfielder,mediocampista,Internacional
+11,Didier ,Drogba,36,forward,delantero ,Galatasaray
+11,Gervinho,Kouassi,27,forward,delantero ,Roma
+11,Salomon,Kalou,28,forward,delantero ,Lille
+11,Wilfried,Bony,25,forward,delantero ,Swansea
+11,Giovanni,Sio,25,forward,delantero ,Basilea
+11,Mathis ,Bolly,23,forward,delantero ,Dusseldorf
+11,Seydou,Doumbia,26,forward,delantero ,Cska Moscu
+11,Lacina,Traoré,23,forward,delantero ,Everton
+12,Eiji,Kawashima,31,goalie,portero,Standard Lieja
+12,Shusaku,Nishikawa,28,goalie,portero,Urawa Reds
+12,Shuichi,Gonda,25,goalie,portero,FC Tokio
+12,Yasuyuki,Konno,31,defense,defensa,Gamba Osaka
+12,Masahiko,Inoha,28,defense,defensa,Jubilo Iwata
+12,Maya,Yoshida,25,defense,defensa,Southampton
+12,Yuto,Nagatomo,27,defense,defensa,Inter Milan
+12,Masato,Morishige,27,defense,defensa,FC Tokyo
+12,Atsuto,Uchida,26,defense,defensa,Schalke 04
+12,Gotoku,Sakai,23,defense,defensa,Stuttgart
+12,Hiroki,Sakai,24,defense,defensa,Hannover 96
+12,Yasuhito,Endo,34,midfielder,mediocampista,Gamba Osaka
+12,Makoto,Hasebe,30,midfielder,mediocampista,Nuremberg
+12,Toshihiro,Aoyama,28,midfielder,mediocampista,Sanfrecce H.
+12,Hotaru,Yamaguchi,23,midfielder,mediocampista,Cerezo Osaka
+12,Keisuke,Honda,28,forward,delantero,AC Milan
+12,Shinji,Kagawa,25,forward,delantero,Manchester U.
+12,Shinji,Okazaki,28,forward,delantero,Mainz
+12,Hiroshi,Kiyotake,24,forward,delantero,Nuremberg
+12,Yoichiro,Kakitani,24,forward,delantero,Cerezo Osaka
+12,Manabu,Saito,24,forward,delantero,1860 Munich
+12,Yoshito ,Okubo,32,forward,delantero,Kawasaki F.
+13,Fernando,Muslera,28,goalie,portero,Galatasaray
+13,Martin,Silva,31,goalie,portero,Vasco da Gama
+13,Rodrigo ,Muñoz,32,goalie,portero,Libertad
+13,Diego,Lugano,33,defense,defensa,West Bromwich
+13,Diego,Godín,28,defense,defensa,Atletico de Madrid
+13,Jose María,Giménez,19,defense,defensa,Atletico de Madrid
+13,Martín,Cáceres,27,defense,defensa,Juventus
+13,Maxi,Pereira,30,defense,defensa,Benfica
+13,Jorge,Fucile,30,defense,defensa,Porto
+13,Sebastián,Coates,23,defense,defensa,Nacional
+13,Egidio,Arévalo R.,32,midfielder,mediocampista,Morelia
+13,Walter,Gargano,30,midfielder,mediocampista,Parma
+13,Diego,Pérez,34,midfielder,mediocampista,Bologna
+13,Sebastián,Eguren,33,midfielder,mediocampista,Palmeiras
+13,Alvaro,González,29,midfielder,mediocampista,Lazio
+13,Alejandro,Silva,24,midfielder,mediocampista,Lanús
+13,Álvaro ,Pereira,28,midfielder,mediocampista,Sao Paulo
+13,Cristian,Rodríguez,28,midfielder,mediocampista,Atletico de Madrid
+13,Gastón ,Ramírez,23,midfielder,mediocampista,Southampton
+13,Nicolas,Lodeiro,25,midfielder,mediocampista,Botafogo
+13,Luis,Suárez,27,forward,delantero,Liverpool
+13,Edinson,Cavani,27,forward,delantero,Paris SG
+13,Diego,Forlán,35,forward,delantero,Cerezo Osaka
+13,Christian,Stuani,28,forward,delantero,Espanyol
+13,Abel,Hernández,23,forward,delantero,Palermo
+14,Keylor,Navas,27,goalie,portero,Levante
+14,Patrick,Pemberton,32,goalie,portero,Alajuelense
+14,Daniel,Cambronero,28,goalie,portero,Herediano
+14,Esteban,Alvarado,25,goalie,portero,AZ Alkmaar
+14,Giancarlo,González,26,defense,defensa,Columbus Crew
+14,Johnny,Acosta,31,defense,defensa,Alajuelense
+14,Kendall,Waston,26,defense,defensa,Saprissa
+14,Michael,Umaña,31,defense,defensa,Saprissa
+14,Roy,Miller,29,defense,defensa,NY Red Bulls
+14,Christian,Gamboa,24,defense,defensa,Rosenborg
+14,Oscar ,Duarte,24,defense,defensa,Brujas
+14,Heiner,Mora,30,defense,defensa,Saprissa
+14,Junior,Diaz,30,defense,defensa,Mainz
+14,Waylon,Francis,23,defense,defensa,Columbus Crew
+14,Yeltsin,Tejeda,22,midfielder,mediocampista,Saprissa
+14,Carlos,Hernández,32,midfielder,mediocampista,Wellington P.
+14,Celso,Borges,26,midfielder,mediocampista,AIK
+14,José M.,Cubero,27,midfielder,mediocampista,Herediano
+14,Hansell,Arauz,24,midfielder,mediocampista,Saprissa
+14,Michael,Barrantes,30,midfielder,mediocampista,Aalesund
+14,Esteban,Granados,28,midfielder,mediocampista,Herediano
+14,Ariel,Rodríguez,28,midfielder,mediocampista,Alajuelense
+14,Jairo,Arrieta,30,midfielder,mediocampista,Columbus Crew
+14,Marco,Ureña,24,midfielder,mediocampista,Kubán K.
+14,Christian,Bolaños,30,midfielder,mediocampista,Copenhage
+14,Diego,Calvo,23,midfielder,mediocampista,Valerenga
+14,Randall,Brenes,30,forward,delantero,Cartaginés
+14,Alvaro,Saborío,32,forward,delantero,Real Salt Lake
+14,Bryan,Ruiz,28,forward,delantero,PSV Eindhoven
+14,Joel,Campbell,21,forward,delantero,Olympiakos
+15,Joe,Hart,27,goalie,portero,Manchester C.
+15,Ben,Foster,31,goalie,portero,West Bromwich
+15,Fraser,Forster,26,goalie,portero,Celtic
+15,Leighton,Baines,29,defense,defensa,Everton
+15,Gary,Cahill,28,defense,defensa,Chelsea
+15,Phil,Jagielka,31,defense,defensa,Everton
+15,Glen,Johnson,29,defense,defensa,Liverpool
+15,Phil,Jones,22,defense,defensa,Manchester U.
+15,Luke,Shaw,18,defense,defensa,Southampton
+15,Chris,Smalling,24,defense,defensa,Manchester U.
+15,Ross,Barkley,20,midfielder,mediocampista,Everton
+15,Steven,Gerrard,34,midfielder,mediocampista,Liverpool
+15,Jordan,Henderson,24,midfielder,mediocampista,Liverpool
+15,Adam,Lallana,26,midfielder,mediocampista,Southampton
+15,Frank,Lampard,36,midfielder,mediocampista,Chelsea
+15,James,Milner,28,midfielder,mediocampista,Manchester C.
+15,A. Oxlade,Chamberlain,20,midfielder,mediocampista,Arsenal
+15,Raheem,Sterling,19,midfielder,mediocampista,Liverpool
+15,Jack,Wilshere,22,forward,delantero,Arsenal
+15,Rickie ,Lambert,32,forward,delantero,Southampton
+15,Wayne,Rooney,28,forward,delantero,Manchester U.
+15,Daniel,Sturridge,24,forward,delantero,Liverpool
+15,Daniel,Welbeck,23,forward,delantero,Manchester U.
+16,Gianluigi,Buffon,36,goalie,portero,Juventus
+16,Mattia,Perin,21,goalie,portero,Génova
+16,Salvatore,Sirigu,27,goalie,portero,Paris SG
+16,Antonio,Mirante,30,goalie,portero,Parma
+16,Ignazio,Abate,27,defense,defensa,AC Milan
+16,Andrea,Barzagli,33,defense,defensa,Juventus
+16,Leonardo,Bonucci,27,defense,defensa,Juventus
+16,Giorgio,Chiellini,29,defense,defensa,Juventus
+16,Matteo,Darmian,24,defense,defensa,Torino
+16,Mattia,De Sciglio,21,defense,defensa,AC Milan
+16,Christian,Maggio,32,defense,defensa,Napoles
+16,Gabriel,Paletta,28,defense,defensa,Parma
+16,Manuel,Pasqual,32,defense,defensa,Fiorentina
+16,Andrea,Ranocchia,26,defense,defensa,Inter de Milan
+16,Alberto,Aquilani,29,midfielder,mediocampista,Fiorentina
+16,Antonio,Candreva,27,midfielder,mediocampista,Lazio
+16,Daniele,De Rossi,30,midfielder,mediocampista,Roma
+16,Claudio,Marchisio,28,midfielder,mediocampista,Juventus
+16,Riccardo,Montolivo,29,midfielder,mediocampista,AC Milan
+16,Thiago ,Motta,31,midfielder,mediocampista,Paris SG
+16,Marco,Parolo,29,midfielder,mediocampista,Parma
+16,Andrea,Pirlo,35,midfielder,mediocampista,Juventus
+16,Romulo, Souza ,26,midfielder,mediocampista,Verona
+16,Marco,Verratti,21,midfielder,mediocampista,Paris SG
+16,Mario,Balotelli,23,midfielder,mediocampista,AC Milan
+16,Antonio,Cassano,31,midfielder,mediocampista,Parma
+16,Alessio,Cerci,26,forward,delantero,Torino
+16,Mattia,Destro,23,forward,delantero,Roma
+16,Ciro,Immobile,24,forward,delantero,Torino
+16,Lorenzo,Insigne,23,forward,delantero,Napoles
+16,Giuseppe,Rossi,27,forward,delantero,Fiorentina
+17,Diego,Benaglio,30,goalie,portero,Wolfsburg
+17,Yann,Sommer,25,goalie,portero,Basilea
+17,Roman,Bürki,23,goalie,portero,Grasshoppers
+17,Johan,Djourou,27,defense,defensa,Hamburg SV
+17,Michael,Lang,23,defense,defensa,Grasshoppers
+17,Stephan,Lichtsteiner,30,defense,defensa,Juventus
+17,Ricardo,Rodriguez,21,defense,defensa,Wolfsburg
+17,Fabian, Schär,22,defense,defensa,Basilea
+17,Philippe,Senderos,29,defense,defensa,Valencia
+17,Steve,Von Bergen,31,defense,defensa,Young Boys
+17,Reto ,Ziegler,28,defense,defensa,Sassuolo
+17,Tranquillo,Barnetta,29,midfielder,mediocampista,Eintracht F.
+17,Valon,Behrami,29,midfielder,mediocampista,Napoles
+17,Blerim,Dzemaili,28,midfielder,mediocampista,Napoles
+17,Gokhan,Inler,30,midfielder,mediocampista,Napoles
+17,Gelson,Fernandes,27,midfielder,mediocampista,Friburg
+17,Xherdan,Shaqiri,22,midfielder,mediocampista,Bayern Munich
+17,Valentin,Stocker,25,midfielder,mediocampista,Basilea
+17,Granit,Xhaka,21,midfielder,mediocampista,Borussia M.
+17,Josip,Drmic,21,forward,delantero,Nuremberg
+17,Mario,Gavranovic,24,forward,delantero,FC Zurich
+17,Haris,Seferovic,22,forward,delantero,Real Sociedad
+17,Admir,Mehmedi,23,forward,delantero,Friburg
+17,Marwin,Hitz,26,forward,delantero,Augsburg
+17,Timm,Klose,26,forward,delantero,Wolfsburg
+17,Silvan,Widmar,21,forward,delantero,Udinese
+17,Eren,Derdiyok,26,forward,delantero,B. Leverkusen
+17,Fabian,Frei,25,forward,delantero,Basilea
+17,Pajtim,Kasami,22,forward,delantero,Fulham
+17,Pirmin,Schwegler,27,forward,delantero,Eintracht F.
+18,Maximo,Banguera,28,goalie,portero,Barcelona
+18,Adrian,Bone,25,goalie,portero,El Nacional
+18,Alex,Dominguez,27,goalie,portero,LDU
+18,Frickson,Erazo,26,defense,defensa,Flamengo
+18,Jorge,Guagua,32,defense,defensa,Emelec
+18,Oscar,Bagui,31,defense,defensa,Emelec
+18,Gabriel,Achilier,29,defense,defensa,Emelec
+18,John,Narvaez,23,defense,defensa,Emelec
+18,Juan C.,Paredes,26,defense,defensa,Barcelona
+18,Cristian,Ramirez,29,defense,defensa,F. Dusseldorf
+18,Walter,Ayoví,34,defense,defensa,Pachuca
+18,Segundo,Castillo,32,midfielder,mediocampista,Al-Hilal
+18,Carlos,Gruezo,19,midfielder,mediocampista,Stuttgart
+18,Renato,Ibarra,23,midfielder,mediocampista,Vitesse
+18,Christian,Noboa,29,midfielder,mediocampista,Dinamo Moscu
+18,Pedro ,Quiñonez,28,midfielder,mediocampista,Emelec
+18,Angel,Mena,26,midfielder,mediocampista,Emelec
+18,Luis,Saritama,30,midfielder,mediocampista,Barcelona
+18,Antonio,Valencia,28,midfielder,mediocampista,Manchester U.
+18,Edison,Mendez,35,midfielder,mediocampista,Independiente
+18,Fidel,Martinez,24,midfielder,mediocampista,Tijuana
+18,Oswaldo,Minda,30,midfielder,mediocampista,Chivas USA
+18,Joao,Rojas,25,forward,delantero,Cruz Azul
+18,Felipe,Caicedo,25,forward,delantero,Al-Jazira
+18,Jefferson,Montero,24,forward,delantero,Morelia
+18,Jaime,Ayovi,26,forward,delantero,Tijuana
+18,Armando,Wila,29,forward,delantero,U. Catolica
+18,Enner,Valencia,24,forward,delantero,Pachuca
+18,Cristian,Penilla,23,forward,delantero,Barcelona
+18,Michael,Arroyo,27,forward,delantero,Atlante
+19,Hugo,Lloris,27,goalie,portero,Tottenham
+19,Steve,Mandanda,29,goalie,portero,Marsella
+19,Mickael,Landreau,35,goalie,portero,Bastia
+19,Mathieu,Debuchy,28,defense,defensa,Newcastle
+19,Lucas,Digne,20,defense,defensa,Paris SG
+19,Patrice,Evra,33,defense,defensa,Manchester U.
+19,Laurent,Koscielny,28,defense,defensa,Arsenal
+19,Eliaquim,Mangala,23,defense,defensa,Oporto
+19,Bacary,Sagna,31,defense,defensa,Arsenal
+19,Mamadou,Sakho,24,defense,defensa,Liverpool
+19,Raphael,Varane,21,defense,defensa,Real Madrid
+19,Yohan,Cabaye,28,midfielder,mediocampista,Paris SG
+19,Clement,Grenier,23,midfielder,mediocampista,Lyon
+19,Blaise,Matuidi,27,midfielder,mediocampista,Paris SG
+19,Paul,Pogba,21,midfielder,mediocampista,Juventus
+19,Rio,Mavuba,30,midfielder,mediocampista,Lille
+19,Moussa,Sissoko,24,midfielder,mediocampista,Newcstle
+19,Mathieu,Valbuena,29,midfielder,mediocampista,Marsella
+19,Karim,Benzema,26,forward,delantero,Real Madrid
+19,Olivier,Giroud,27,forward,delantero,Arsenal
+19,Antoine,Griezmann,23,forward,delantero,Real Sociedad
+19,Franck,Ribery,31,forward,delantero,Bayern Munich
+19,Loic,Rémy,27,forward,delantero,Newcastle
+19,Stéphane,Ruffier,27,reserve,reserva,Saint-Etienne
+19,Maxime,Gonalons,25,reserve,reserva,Lyon
+19,Morgan,Schneiderlin,25,reserve,reserva,Southampton
+19,Rémy ,Cabella,24,reserve,reserva,Montpellier
+19,Alexandre,Lacazette,23,reserve,reserva,Lyon
+19,Loic,Perrin,28,reserve,reserva,Saint-Etienne
+19,Benoit,Trémoulinas,29,reserve,reserva,Saint-Etienne
+20,Noel,Valladares,37,goalie,portero,Olimpia
+20,Donis,Escober,32,goalie,portero,Olimpia
+20,Luis,López,27,goalie,portero,Real España
+20,Brayan,Beckeles,28,defense,defensa,Olimpia
+20,Arnold,Peralta,25,defense,defensa,Rangers
+20,Emilio,Izaguirre,27,defense,defensa,Celtic
+20,Juan C.,García,26,defense,defensa,Wigan
+20,Maynor,Figueroa,31,defense,defensa,Hull City
+20,Víctor,Bernardez,32,defense,defensa,San José E.
+20,Osman,Chávez,29,defense,defensa,Quingdao
+20,Juan P.,Montes,28,defense,defensa,Motagua
+20,Luis,Garrido,23,midfielder,mediocampista,Olimpia
+20,Roger,Espinoza,27,midfielder,mediocampista,Wigan
+20,Jorge,Claros,28,midfielder,mediocampista,Motagua
+20,Wilson,Palacios,29,midfielder,mediocampista,Stoke City
+20,Oscar ,Boniek,29,midfielder,mediocampista,Houston D.
+20,Andy,Najar,21,midfielder,mediocampista,Anderlecht
+20,Mario,Martínez,25,midfielder,mediocampista,Real España
+20,Marvin,Chávez,30,forward,delantero,Colorado R.
+20,Jerry ,Bengtson,27,forward,delantero,New England R.
+20,Jerry ,Palacios,32,forward,delantero,Alajuelense
+20,Carlo,Costly,31,forward,delantero,Real España
+20,Rony ,Martínez,25,forward,delantero,Real Sociedad
+21,Sergio,Romero,27,goalie,portero,Monaco
+21,Mario,Andújar,30,goalie,portero,Catania
+21,Agustín,Orion,32,defense,defensa,Boca Juniors
+21,Pablo,Zabaleta,29,defense,defensa,Manchester C.
+21,Ezequiel,Garay,27,defense,defensa,Benfica
+21,Federico,Fernández,25,defense,defensa,Nápoles
+21,Marcos,Rojo,24,defense,defensa,Sporting Lisboa
+21,Hugo,Campagnaro,33,defense,defensa,Hull City
+21,José M.,Basanta,30,defense,defensa,Monterrey
+21,Nicolás,Otamendi,26,defense,defensa,Atl. Mineiro
+21,Lisandro,López,31,defense,defensa,Getafe
+21,Martín,Demichelis,34,defense,defensa,Manchester C.
+21,Gabriel,Mercado,27,defense,defensa,River Plate
+21,Javier,Mascherano,30,midfielder,mediocampista,Barcelona
+21,Fernando,Gago,28,midfielder,mediocampista,Boca Juniors
+21,Ever,Banega,26,midfielder,mediocampista,Newell´s
+21,Lucas,Biglia,28,midfielder,mediocampista,Lazio
+21,Angel,Di María,26,midfielder,mediocampista,Real Madrid
+21,Maxi ,Rodriguez,33,midfielder,mediocampista,Newell´s
+21,Augusto,Fernández,28,midfielder,mediocampista,Celta
+21,José,Sosa,29,midfielder,mediocampista,Atletico de Madrid
+21,Ricardo,Álvarez,26,midfielder,mediocampista,Inter de Milan
+21,Enzo,Pérez,28,midfielder,mediocampista,Benfica
+21,Fabián,Rinaudo,27,midfielder,mediocampista,Catania
+21,Lionel,Messi,27,forward,delantero,Barcelona
+21,Segio,Agüero,26,forward,delantero,Atletico de Madrid
+21,Gonzalo,Higuaín,26,forward,delantero,Real Madrid
+21,Ezequiel,Lavezzi,29,forward,delantero,Paris SG
+21,Rodrigo ,Palacio,32,forward,delantero,Inter de Milan
+21,Franco ,Di Santo,25,forward,delantero,W. Bremen
+22,Asmir,Begovic,27,goalie,portero,Stoke City
+22,Jasmin,Fejzic,28,goalie,portero,Aalen
+22,Asmir,Avdukic,33,goalie,portero,Borac Banja L.
+22,Dejan,Bandovic,30,defense,defensa,Sarajevo
+22,Emir,Spahic,33,defense,defensa,B. Leverkusen
+22,Sead,Kolasinac,21,defense,defensa,Shalke 04
+22,Ermin,Bicakcic,24,defense,defensa,Eintracht B.
+22,Ognjen,Vranjes,24,defense,defensa,Elazigspor
+22,Toni,Sunjic,25,defense,defensa,Zorya L.
+22,Avdija,Vrsajevic,28,defense,defensa,Hajduk S.
+22,Mensur,Mujdza ,30,defense,defensa,Friburgo
+22,Ervin,Zukanovic,27,defense,defensa,Gent
+22,Zoran,Kvrzic,25,defense,defensa,Rijeka
+22,Srdjan,Stanic,24,midfielder,mediocampista,Zeljeznicar
+22,Zvjezdan,Misimovic,32,midfielder,mediocampista,Guizhou Renhe
+22,Haris,Medunjanin,29,midfielder,mediocampista,Gaziantepspor
+22,Miralem,Pjanic,24,midfielder,mediocampista,Roma
+22,Sejad,Salihovic,29,midfielder,mediocampista,Hoffenheim
+22,Senad,Lulic,28,midfielder,mediocampista,Lazio
+22,Izet,Hajrovic,22,midfielder,mediocampista,Galatasaray
+22,Senijad,Ibricic,28,midfielder,mediocampista,Erciyesspor
+22,Edin,Visca,28,midfielder,mediocampista,Istanbul BB
+22,Tino,Susic,22,midfielder,mediocampista,Hajduk S.
+22,Muhamed,Besic,21,midfielder,mediocampista,Ferencvarosi
+22,Anel,Hadzic,24,midfielder,mediocampista,Sturm Graz
+22,Miroslav,Stevanovic,23,midfielder,mediocampista,Elche
+22,Adnan,Zahirovic,24,midfielder,mediocampista,Bochum
+22,Edin,Dzeko,28,forward,delantero,Manchester C.
+22,Vedad,Ibisevic,29,forward,delantero,Stuttgart
+22,Ermin,Zec,26,forward,delantero,Genclerbirligi
+23,Daniel,Davari,26,goalie,portero,Eintracht B.
+23,Alireza,Haghighi,26,goalie,portero,S. Covilha
+23,Rahman,Ahmadi,33,goalie,portero,Sepahan
+23,Sosha,Makani,27,goalie,portero,Foolad K.
+23,Khosro,Heidari,30,defense,defensa,Esteghlal
+23,Hossein ,Mahini,27,defense,defensa,Persepolis
+23,Steven,Beitashour,27,defense,defensa,Vancouver W.
+23,Pejman,Montazeri,30,defense,defensa,Umm Salal
+23,Jalal,Hosseini,32,defense,defensa,Persepolis
+23,Amir,Sadeghi,32,defense,defensa,Esteghlal
+23,M. Reza,Khanzadeh,22,defense,defensa,Zob Ahan
+23,Ahmad,Alenemeh,31,defense,defensa,Naft
+23,Hashem,Beikzadeh,30,defense,defensa,Esteghlal
+23,Ehsan,Hajsafi,24,defense,defensa,Sepahan
+23,Mehrdad,Pooladi,27,defense,defensa,Persepolis
+23,Javad,Nekounam,33,midfielder,mediocampista,Al Kuwait
+23,Andranik ,Teymourian,31,midfielder,mediocampista,Esteghlal
+23,Reza,Haghighi,25,midfielder,mediocampista,Persepolis
+23,Ghasem,Hadadifar,30,midfielder,mediocampista,Zob Ahan
+23,Bakhtiar,Rahmani,22,midfielder,mediocampista,Foolad K.
+23,Alireza,Jahanbakhsh,20,midfielder,mediocampista,Nec Nijmegen
+23,Ashkan,Dejagah,27,midfielder,mediocampista,Fulham
+23,Masoud,Shojaei,30,forward,delantero,Las Palmas
+23,M.Reza,Khalatbari,30,forward,delantero,Persepolis
+23,Mehdi,Sharifi,21,forward,delantero,Sepahan
+23,Reza,Ghoochannejhad,26,forward,delantero,Charlton
+23,Karim,Ansarifard,24,forward,delantero,Persepolis
+23,Sardar,Azmoun,19,forward,delantero,Rubin Kazan
+24,Vincent,Enyeama,31,goalie,portero,Lille
+24,Austin,Ejide,30,goalie,portero,Hapoel Be´er S.
+24,Chigozie,Agbim,29,goalie,portero,Gombe United
+24,Daniel,Akpeyi,27,goalie,portero,Warri Wolves
+24,Elderson,Echiejile,26,defense,defensa,Monaco
+24,Efe,Ambrose,26,defense,defensa,Celtic Glasgow
+24,Godfrey,Oboabona,23,defense,defensa,Rizespor
+24,Azubuike,Egwuekwe,24,defense,defensa,Warri Wolves
+24,Kenneth,Omeruo,20,defense,defensa,Middlesbrough
+24,Juwon,Oshaniwa,23,defense,defensa,Ashdod FC
+24,Joseph,Yobo,34,defense,defensa,Norwich City
+24,Kunle,Odunlami,24,defense,defensa,Sunshine Stars
+24,John Obi,Mikel,27,midfielder,mediocampista,Chelsea
+24,Ogenyi,Onazi,21,midfielder,mediocampista,Lazio
+24,Ramon ,Azeez,21,midfielder,mediocampista,Almeria
+24,Ejike,Uzoenyi,26,midfielder,mediocampista,Enugu Rangers
+24,Gabriel,Reuben,23,midfielder,mediocampista,Beveren
+24,Nosa,Igiebor,23,midfielder,mediocampista,Betis
+24,Joel,Obi,23,midfielder,mediocampista,Parma
+24,Michael,Uchebo,24,midfielder,mediocampista,Cercle Bruges
+24,Sunday,Mba,25,midfielder,mediocampista,Bastia
+24,Ahmed,Musa,21,forward,delantero,CSKA Moscu
+24,Shola,Ameobi,32,forward,delantero,Newcastle
+24,Victor,Moses,23,forward,delantero,Liverpool
+24,Emmanuel,Emenike,27,forward,delantero,Fenerbache
+24,Obinna,Nsofor,27,forward,delantero,Chievo Verona
+24,Peter,Odemwingie,32,forward,delantero,Stoke City
+24,Michael,Babatunde,21,forward,delantero,Volyn
+24,Nnamdi,Oduamadi,23,forward,delantero,Varese
+24,Uche,Nwofor,22,forward,delantero,Heerenveen
+25,Manuel,Neuer,28,goalie,portero,Bayern Munich
+25,Roman,Weidenfeller,33,goalie,portero,B. Dortmund
+25,Ron Robert,Zieler,25,goalie,portero,Hannover 96
+25,Jerome,Boateng,25,defense,defensa,Bayern Munich
+25,Philipp,Lahm,30,defense,defensa,Bayern Munich
+25,Erik,Durm,22,defense,defensa,B. Dortmund
+25,Kevin,Grosskreutz,25,defense,defensa,B. Dortmund
+25,Mats ,Hummels,25,defense,defensa,B. Dortmund
+25,Marcell,Schemelzer,26,defense,defensa,B. Dortmund
+25,Benedikt,Howedes,26,defense,defensa,Schalke 04
+25,Marcell,Jansen,28,defense,defensa,Hamburgo
+25,Per,Mertesacker,29,defense,defensa,Arsenal
+25,Shkodran,Mustafi,22,defense,defensa,Sampdoria
+25,Lars,Bender,25,midfielder,mediocampista,B. Leverkusen
+25,Julian,Draxler,20,midfielder,mediocampista,Schalke 04
+25,Maximilian,Meyer,18,midfielder,mediocampista,Schalke 04
+25,Leon,Goretzka,19,midfielder,mediocampista,Schalke 04
+25,Matthias,Ginter,20,midfielder,mediocampista,Friburgo
+25,Mario,Gotze,21,midfielder,mediocampista,Bayern Munich
+25,Toni,Kroos,24,midfielder,mediocampista,Bayern Munich
+25,Marco,Reus,24,midfielder,mediocampista,B. Dortmund
+25,Bastian,Schweinsteiger,29,midfielder,mediocampista,Bayern Munich
+25,Andre,Hahn,23,midfielder,mediocampista,Augsburgo
+25,Sami,Khedira,27,midfielder,mediocampista,Real Madrid
+25,Mesut,Ozil,25,midfielder,mediocampista,Arsenal
+25,Andre,Schurrle,23,forward,delantero,Chelsea
+25,Thomas,Muller,24,forward,delantero,Bayern Munich
+25,Lukas,Podolski,28,forward,delantero,Arsenal
+25,Miroslav,Klose,35,forward,delantero,Lazio
+25,Kevin,Volland,21,forward,delantero,Hoffenheim
+26,Anthony,Lopes,23,goalie,portero,Lyon
+26,Beto,Bastos,32,goalie,portero,Sevilla
+26,Eduardo,dos Reis Carvalho,31,goalie,portero,SC Braga
+26,Rui Patricio,dos Santos,26,defense,defensa,Sporting Lisboa
+26,André,Almeida,23,defense,defensa,Benfica
+26,Vitorino ,Pacheco Antunes,27,defense,defensa,Malaga
+26,Bruno,Alves,32,defense,defensa,Fenerbache
+26,Fabio,Coentrao,26,defense,defensa,Real Madrid
+26,Joao,Pereira,30,defense,defensa,Valencia
+26, Luis Carlos,Novo Neto,25,defense,defensa,Zenit
+26,Kléper Laveran,Lima Ferreira,31,defense,defensa,Real Madrid
+26,Ricardo,Costa,33,defense,defensa,Valencia
+26,Rolando,Pires da Fonseca,28,defense,defensa,Inter de Milan
+26,André,Gomes,20,midfielder,mediocampista,Benfica
+26,Joao Mario, Naval,21,midfielder,mediocampista,V. Guimaraes
+26,Joao,Moutinho,27,midfielder,mediocampista,Monaco
+26,Miguel,Veloso,28,midfielder,mediocampista,Dynamo Kiev
+26,Raul,Meireles,31,midfielder,mediocampista,Fenerbache
+26,Rúben,Amorim,29,midfielder,mediocampista,Benfica
+26,William,Carvalho,22,midfielder,mediocampista,Fenerbache
+26,Cristiano Ronaldo,dos Santos Aveiro,29,forward,delantero,Real Madrid
+26,Eder, Macedo Lopes,26,forward,delantero,SC Braga
+26,Hélder,Postiga,31,forward,delantero,Lazio
+26,Hugo,Almeida,29,forward,delantero,Besiktas
+26,Ivan,Cavaleiro,20,forward,delantero,Benfica
+26,Nani,Almeida,27,forward,delantero,Manchester U.
+26,Rafa,Silva,21,forward,delantero,SC Braga
+26,Ricardo,Quaresma,30,forward,delantero,Porto
+26,Silvestre,Varela,29,forward,delantero,Porto
+26,Adelino André ,Vieira Freitas,28,forward,delantero,Wolfsburgo
+27,Stephen,Adams,24,goalie,portero,Aduana Stars
+27,Fatau,Dauda,29,goalie,portero,Orlando Pirates
+27,Adam,Kwarasey,26,goalie,portero,Stromsgodset
+27,Harrison,Afful,27,defense,defensa,Esperance
+27,Jerry,Akaminko,26,defense,defensa,Eskisehirspor
+27,John,Boye,27,defense,defensa,Stade Rennes
+27,Samuel,Inkoom,24,defense,defensa,Platanias
+27,Jonathan,Mensah,23,defense,defensa,Evian
+27,Daniel,Opare,23,defense,defensa,Standard Lieja
+27,Jeffrey,Schlupp,21,defense,defensa,Leicester City
+27,Rashid,Sumaila,21,defense,defensa,M. Sundowns
+27,David,Accam,23,midfielder,mediocampista,Helsingborg
+27,Afriyie,Acquah,22,midfielder,mediocampista,Parma
+27,Albert,Adomah,26,midfielder,mediocampista,Middlesbrough
+27,Emmanuel,Agyemang,23,midfielder,mediocampista,Udinese
+27,Kwadwo,Asamoah,25,midfielder,mediocampista,Juventus
+27,Christian,Atsu,22,midfielder,mediocampista,Vitesse
+27,Andre,Ayew,24,midfielder,mediocampista,Marsella
+27,Michael,Essien,31,midfielder,mediocampista,AC Milan
+27,Sulley,Muntari,29,midfielder,mediocampista,AC Milan
+27,Mohammed,Rabiu,24,midfielder,mediocampista,K. Krasnodar
+27,Wakaso ,Mubarak,23,midfielder,mediocampista,Rubin Kazan
+27,Jordan,Ayew,22,forward,delantero,Sochaux
+27,Prince,Boateng,27,forward,delantero,Schalke 04
+27,Asamoah,Gyan,28,forward,delantero,AL AIN
+27,Abdul,Waris,22,forward,delantero,Valenciennes
+28,Brad,Guzan,29,goalie,portero,Aston Villa
+28,Tim,Howard,35,goalie,portero,Everton
+28,Nick,Rimando,34,goalie,portero,Real Salt Lake
+28,Damarcus,Beasley,31,defense,defensa,Puebla
+28,Matt,Besler,27,defense,defensa,S. Kansas City
+28,John ,Brooks,21,defense,defensa,Hertha Berlin
+28,Geoff,Cameron,28,defense,defensa,Stoke City
+28,Timmy,Chandler,24,defense,defensa,Nuremberg
+28,Brad,Evans,29,defense,defensa,Seattle S.
+28,Omar,Gonzalez,25,defense,defensa,LA Galaxy
+28,Clarence ,Goodson,32,defense,defensa,San Jose E.
+28,Fabian,Jhonson,26,defense,defensa,Hoffenheim
+28,Michael,Parkhurst,30,defense,defensa,Columbus Crew
+28,Deandre,Yedlin,20,defense,defensa,Seattle S.
+28,Kyle,Beckerman,32,midfielder,mediocampista,Real Salt Lake
+28,Alejandro,Bedoya,27,midfielder,mediocampista,Nantes
+28,Michael,Bradley,26,midfielder,mediocampista,Toronto FC
+28,Joe,Corona,23,midfielder,mediocampista,Tijuana
+28,Brad ,Davis,32,midfielder,mediocampista,Houston D.
+28,Mix,Diskerud,23,midfielder,mediocampista,Rosenborg
+28,Maurice,Edu,28,midfielder,mediocampista,Philadelphia U.
+28,Julian,Green,18,midfielder,mediocampista,Bayern Munich
+28,Jermaine,Jones,32,midfielder,mediocampista,Besiktas
+28,Graham,Zusi,27,midfielder,mediocampista,S. Kansas City
+28,Jozy,Altidore,24,forward,delantero,Sunderland
+28,Terrence,Boyd,23,forward,delantero,Rapid Viena
+28,Clint,Dempsey,31,forward,delantero,Seattle S.
+28,Landon ,Donovan,32,forward,delantero,LA Galaxy
+28,Aron,Johannsson,23,forward,delantero,AZ Alkmaar
+28,Chris,Wondolowski,31,forward,delantero,San Jose E.
+29,Thibaut,Courtois,22,goalie,portero,Atletico de Madrid
+29,Simon,Mignolet,26,goalie,portero,Liverpool
+29,Koen,Casteels,21,goalie,portero,Hoffenheim
+29,Silvio,Proto,30,goalie,portero,Anderlecht
+29,Toby,Alderweireld,25,defense,defensa,Atletico de Madrid
+29,A. Vanden,Borre,26,defense,defensa,Anderlecht
+29,Daniel,Van Buyten,36,defense,defensa,Bayern Munich
+29,Vincent,Kompany,28,defense,defensa,Manchester C.
+29,Jan ,Vertonghen,27,defense,defensa,Tottenham
+29,Thomas,Vermaelen,28,defense,defensa,Arsenal
+29,Nicolas,Lombaerts,29,defense,defensa,Zenit
+29,Laurent,Ciman,28,defense,defensa,Standard Lieja
+29,Axel,Witsel,25,midfielder,mediocampista,Zenit
+29,Maraouane,Fellaini,26,midfielder,mediocampista,Manchester U.
+29,Steven,Defour,26,midfielder,mediocampista,Oporto
+29,Moussa,Dembele,26,midfielder,mediocampista,Tottenham
+29,Nacer,Chadli,24,midfielder,mediocampista,Tottenham
+29,Kevin,De Bruyne,22,forward,delantero,Wolfsburgo
+29,Romelu,Lukaku,21,forward,delantero,Everton
+29,Divock,Origi,19,forward,delantero,Lille
+29,Eden,Hazard,23,forward,delantero,Chelsea
+29,Kevin,Mirallas,26,forward,delantero,Everton
+29,Dries,Mertens,27,forward,delantero,Napoles
+29,Adnan,Januzaj,19,forward,delantero,Manchester U.
+29,Sebastian,Pocognoli,26,reserve,reserva,Hannover
+29,Thorgan,Hazard,21,reserve,reserva,Zulte Waregem
+29,Michy,Batshuayi,20,reserve,reserva,Standard Lieja
+29,Guillaume,Gillet,30,reserve,reserva,Anderlecht
+29,Jelle,Van Damme,30,reserve,reserva,Standard Lieja
+29,Radja,Nainggolan,26,reserve,reserva,As Roma
+30,Azzedine,Doukha,27,goalie,portero,USM El Harrach
+30,Rais,Mbolhi,28,goalie,portero,CSKA Sofia
+30,Cedric,Si Mohamed,29,goalie,portero,CS Constantine
+30,Mohamed,Zemmamouche,29,goalie,portero,USM Alger
+30,Essaid,Belkalem,25,defense,defensa,Watford
+30,Madjid,Bougherra,31,defense,defensa,AL Lekhwiya
+30,Liassine,Cadamuro,26,defense,defensa,Mallorca
+30,Faouzi,Ghoulam,23,defense,defensa,Napoles
+30,Rafik,Halliche,27,defense,defensa,A. Coimbra
+30,Nacer Eddine,Khoualed,28,defense,defensa,USM Alger
+30,Aissa,Mandi,22,defense,defensa,Stade Reims
+30,Carl,Medjani,29,defense,defensa,Valenciennes
+30,Djamel,Mesbah,29,defense,defensa,Livorno
+30,Mehdi,Mostefa,30,midfielder,mediocampista,Ajaccio
+30,Nabil,Bentaleb,19,midfielder,mediocampista,Tottenham
+30,Ryad,Boudebouz,24,midfielder,mediocampista,Bastia
+30,Yacine,Brahimi,24,midfielder,mediocampista,Granada
+30,Abdelmoumene,Djabou,27,midfielder,mediocampista,Club Africain
+30,Sofiane,Feghouli,24,midfielder,mediocampista,Valencia
+30,Adlene,Guedioura,28,midfielder,mediocampista,Crystal Palace
+30,Foued,Kadir,30,midfielder,mediocampista,Stade Rennes
+30,Amir,Karaoui,26,midfielder,mediocampista,Entente Setif
+30,Mehdi,Lacen,30,midfielder,mediocampista,Getafe
+30,Riyad,Mahrez,23,midfielder,mediocampista,Leicester City
+30,Saphir,Taider,22,midfielder,mediocampista,Inter de Milan
+30,Hassan,Yebda,30,midfielder,mediocampista,Udinese
+30,Rafik,Djebbour,30,forward,delantero,Nottingham F.
+30,Nabil,Ghilas,24,forward,delantero,Porto
+30,Islam,Slimani,25,forward,delantero,Sporting Lisboa
+30,El Arabi,Soudani,26,forward,delantero,Dinamo Zagreb
+31,Igor,Akinfeev,28,goalie,portero,CSKA Moscu
+31,Yury,Lodygin,23,goalie,portero,Zenit
+31,Sergey,Ryzhikov,33,goalie,portero,Rubin Kazan
+31,Alexander,Anyukov,31,defense,defensa,Zenit
+31,Alexey,Berezutskiy,31,defense,defensa,CSKA Moscu
+31,Vasiliy,Berezutskiy,31,defense,defensa,CSKA Moscu
+31,Sergei,Ignashevich,34,defense,defensa,CSKA Moscu
+31,Georgi,Schennikov,23,defense,defensa,CSKA Moscu
+31,Vladimir,Granat,27,defense,defensa,Dinamo Moscu
+31,Alexey,Kozlov,27,defense,defensa,Dinamo Moscu
+31,Andrey,Eschenko,30,defense,defensa,Anui Makhachkala
+31,Dmitry,Kombarov,27,defense,defensa,Spartak Moscu
+31,Andrey,Semenov,25,defense,defensa,Terek Grozny
+31,Igor,Denisov,30,midfielder,mediocampista,Dinamo Moscu
+31,Yury,Zhirkov,30,midfielder,mediocampista,Dinamo Moscu
+31,Alan,Dzagoev,23,midfielder,mediocampista,CSKA Moscu
+31,Yury ,Gazinskiy,24,midfielder,mediocampista,Krasnodar
+31,Roman,Gazinskiy,32,midfielder,mediocampista,Krasnodar
+31,Denis,Gazinskiy,27,midfielder,mediocampista,Spartak Moscu
+31,Pavel, Mogilevets,21,midfielder,mediocampista,Rubin Kazan
+31,Viktor,Gazinskiy,28,midfielder,mediocampista,Zenit
+31,Oleg,Gazinskiy,23,midfielder,mediocampista,Zenit
+31,Vladimir,Bystrov,30,forward,delantero,Anui Makhachkala
+31,Alexander,Gazinskiy,31,forward,delantero,Zenit
+31,Artem,Dzyuba,25,forward,delantero,Rostov
+31,Aleksey,Ionov,25,forward,delantero,Dinamo Moscu
+31,Aleksandr,Gazinskiy,23,forward,delantero,Dinamo Moscu
+31,Maxim,Kanunnikov,22,forward,delantero,Amkar Perm
+31,Pavel,Pogrebnyak  ,30,forward,delantero,Reading
+31,Alexandr,Gazinskiy,29,forward,delantero,Lokomotiv
+32,Jung,Sung-Ryong,28,goalie,portero,Suwon Bluewings
+32,Kim ,Seung-Gyu,23,goalie,portero,Ulsan Hyundai
+32,Lee,Bum-Young,25,goalie,portero,Busan Ipark
+32,Kim ,Jin-Su,21,defense,defensa,Albirex Niigata
+32,Kim ,Young-Gwon,24,defense,defensa,Guangzhou E.
+32,Yoon,Suk-Young,24,defense,defensa,Queens Park R.
+32,Hwang,Seok-Ho,24,defense,defensa,Hiroshima S.
+32,Hong,Jeong-Ho,24,defense,defensa,Augsburg
+32,Kwak,Tae-Hwi,32,defense,defensa,Al Hilal
+32,Lee,Yong,27,defense,defensa,Ulsan Hyundai
+32,Kim ,Chang-Soo,28,defense,defensa,Kashiwa Reysol
+32,Ki,Sung-Yueng,25,midfielder,mediocampista,Sunderland
+32,Ha,Dae-Sung,29,midfielder,mediocampista,Beijing Guoan
+32,Han,Kook-Young,24,midfielder,mediocampista,Kashiwa Reysol
+32,Park,Jong-Woo,25,midfielder,mediocampista,Guangzhou R&F
+32,Kim ,Bo-Kyung,24,midfielder,mediocampista,Cardiff City
+32,Lee,Chung-Yong,25,midfielder,mediocampista,Bolton W.
+32,Ji,Dong-Won,22,midfielder,mediocampista,Augsburg
+32,Son,Heung-Min,21,midfielder,mediocampista,B. Leverkusen
+32,Koo,Ja-Cheol,25,forward,delantero,Mainz
+32,Lee,Keun-Ho,29,forward,delantero,Sangju Sangmu
+32,Park,Chu-Young,28,forward,delantero,Watford
+32,Kim ,Shin-Wook,26,forward,delantero,Ulsan Hyundai
