@@ -81,18 +81,23 @@ public class MinutoMinuto {
 
         for (int i = 0; i < articulos4.size(); i++) {
 
-            m.insertMinutoMinuto(articulos4.get(i).text(), articulos5.get(i).text(), home + ":" + visit, golesLocales, golesVisitantes);
-
+            m.insertMinutoMinuto(articulos4.get(i).text().replace("'", ""), articulos5.get(i).text(), home + ":" + visit, golesLocales.equals("")?".":golesLocales, golesVisitantes.equals("")?".":golesVisitantes);
+            System.out.println(articulos4.get(i).text()+ articulos5.get(i).text()+ home + ":" + visit+golesLocales + golesVisitantes);
         }
 //        m.cerrarConexion();
     }
 
-    public static void main(String[] args) {
-        MinutoMinuto m = new MinutoMinuto("http://www.goal.com/es-mx/match/mexico-vs-israel/1662436/live-commentary?ICID=MP_MS_3", "Español");
-        m.getElements();
-        System.out.println("______________________________________________________");
-        MinutoMinuto m2 = new MinutoMinuto("http://www.goal.com/en-us/match/mexico-vs-israel/1662436/live-commentary?ICID=MP_MS_3", "Ingles");
-        m2.getElements();
+    public static void main(String[] args) throws InterruptedException {
+
+        while (true) {
+            MinutoMinuto m = new MinutoMinuto("http://www.goal.com/es-mx/match/mexico-vs-bosnia-herzegovina/1649177/live-commentary?ICID=MP_MS_3", "Español");
+            m.getElements();
+            System.out.println("______________________________________________________");
+            MinutoMinuto m2 = new MinutoMinuto("http://www.goal.com/en-us/match/mexico-vs-bosnia-herzegovina/1649177/live-commentary?ICID=MP_MS_3", "Ingles");
+            m2.getElements();
+            Thread.sleep(40000);
+        }
     }
+;
 
 }

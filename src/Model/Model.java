@@ -45,7 +45,7 @@ public class Model {
         try {
             Class.forName("com.mysql.jdbc.Driver");
             conn = DriverManager.getConnection(url, login, password);
-            System.out.println("conecto correctamente");
+           
         } catch (SQLException | ClassNotFoundException e) {
             System.out.println("no se puede conectar");
         }
