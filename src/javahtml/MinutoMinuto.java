@@ -79,7 +79,7 @@ public class MinutoMinuto {
         System.out.println(home + visit);
         System.out.println("goles locals " + golesLocales + " Goles visita " + golesVisitantes);
 
-        for (int i = 0; i < articulos4.size(); i++) {
+        for (int i = articulos4.size()-1; i >=0; i--) {
 
             m.insertMinutoMinuto(articulos4.get(i).text().replace("'", ""), articulos5.get(i).text(), home + ":" + visit, golesLocales.equals("")?".":golesLocales, golesVisitantes.equals("")?".":golesVisitantes);
             System.out.println(articulos4.get(i).text()+ articulos5.get(i).text()+ home + ":" + visit+golesLocales + golesVisitantes);
